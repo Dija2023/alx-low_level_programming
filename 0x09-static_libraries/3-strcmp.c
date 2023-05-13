@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strcmp : it compares string values
- * @s1:the  input value
- * @s2:the  input value
+ * _strcmp - Compare string's values
+ * @s1: input value
+ * @s2: input value
  *
  * Return: s1[i] - s2[i]
  */
