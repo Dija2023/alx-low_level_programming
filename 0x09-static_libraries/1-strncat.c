@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strncat - relates 2 strings
  * using n bytes from src

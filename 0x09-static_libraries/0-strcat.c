@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strcat - relate 2 strings
  * @dest: Input value
