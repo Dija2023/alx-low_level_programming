@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strncpy - Copy string
  * @dest: Input Value
